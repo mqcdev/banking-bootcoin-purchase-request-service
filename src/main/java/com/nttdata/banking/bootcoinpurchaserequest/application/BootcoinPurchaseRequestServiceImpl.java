@@ -8,8 +8,6 @@ import com.nttdata.banking.bootcoinpurchaserequest.model.BootcoinMovement;
 import com.nttdata.banking.bootcoinpurchaserequest.model.BootcoinPurchaseRequest;
 import com.nttdata.banking.bootcoinpurchaserequest.model.BootcoinsForSale;
 import com.nttdata.banking.bootcoinpurchaserequest.model.Client;
-import com.nttdata.bootcamp.msbootcoinpurchaserequest.infrastructure.*;
-import com.nttdata.bootcamp.msbootcoinpurchaserequest.model.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

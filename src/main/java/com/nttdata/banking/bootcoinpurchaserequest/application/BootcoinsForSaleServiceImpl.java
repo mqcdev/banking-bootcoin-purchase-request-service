@@ -3,7 +3,6 @@ package com.nttdata.banking.bootcoinpurchaserequest.application;
 import com.nttdata.banking.bootcoinpurchaserequest.dto.BootcoinsForSaleDto;
 import com.nttdata.banking.bootcoinpurchaserequest.exception.ResourceNotFoundException;
 import com.nttdata.banking.bootcoinpurchaserequest.infrastructure.*;
-import com.nttdata.bootcamp.msbootcoinpurchaserequest.infrastructure.*;
 import com.nttdata.banking.bootcoinpurchaserequest.model.Bootcoin;
 import com.nttdata.banking.bootcoinpurchaserequest.model.BootcoinsForSale;
 import com.nttdata.banking.bootcoinpurchaserequest.model.Client;
